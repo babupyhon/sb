@@ -1,0 +1,33 @@
+accounting_app/
+│
+├── main.py                # Entry point
+├── db_manager.py          # Database manager (CRUD, vouchers, reports)
+├── widgets.py             # Helpers: AutoCompleteComboBox, DecimalLineEdit, show_message
+├── dialogs/
+│   ├── master_entry.py    # MasterEntryDialog
+│   ├── voucher.py         # VoucherDialog
+│   ├── ledger.py          # LedgerReportDialog
+│   ├── daybook.py         # DayBookDialog
+│   ├── stock_register.py  # StockRegisterDialog
+│   ├── subsidiary.py      # SubsidiaryBookDialog
+│   └── trial_balance.py   # TrialBalanceDialog
+└── main_window.py         # MainWindow with buttons to open dialogs
+
+this is what u hv given.
+pl give rest of code
+'''
+Directory of E:\Ppy\sb
+19-11-2025  17:59             1,630 db_manager.py
+19-11-2025  18:01               228 main.py
+19-11-2025  18:02             2,218 main_window.py
+19-11-2025  18:03               326 master_entry.py
+19-11-2025  17:02            29,765 t1.py
+19-11-2025  17:59             2,123 widgets.py
+19-11-2025  16:59            84,655 zfx19.py
+
+Directory of E:\Ppy\sb\dialogs
+19-11-2025  18:07             1,958 daybook.py
+19-11-2025  18:06             1,958 ledger.py
+19-11-2025  18:06             2,041 voucher.py
+19-11-2025  18:09                 0 __init__.py
+'''
